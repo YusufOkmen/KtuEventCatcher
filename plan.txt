@@ -1,0 +1,11 @@
+The platforms that will be scraped: I will scrape the event page of my university's website.
+!Pick a content that has no request blocker.
+
+Use aiohttp + asyncio to send requests to multiple platforms. 
+
+Use Beatifulsoup to collect info that gotten by aiohttp and asyncio.
+
+Store these datas in a MySQL database
+
+Use flask to route the website and create a simple websi te by using HTML, CSS and maybe Bootstrap
+
