@@ -7,5 +7,5 @@ Use Beatifulsoup to collect info that gotten by aiohttp and asyncio.
 
 Store these datas in a MySQL database
 
-Use flask to route the website and create a simple websi te by using HTML, CSS and maybe Bootstrap
+Use flask to route the website and create a simple website by using HTML, CSS and maybe Bootstrap
 

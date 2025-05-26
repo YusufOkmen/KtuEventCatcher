@@ -56,5 +56,9 @@ for header, dates in eventDict.items():
         "date": mergedDate
     })
 
+cycle = 0
 for elements in eventDateList:
     print(elements)
+    cycle += 1
+    if cycle == 5:
+        break
